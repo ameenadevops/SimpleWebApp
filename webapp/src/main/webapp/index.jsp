@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Welcome to CICD Project </h1>   
+         <h1> **** Welcome home </h1>   
 	 
 
     </section>    
